@@ -7,6 +7,11 @@ import java.util.Scanner;
 /**
  *
  * @author user
+ Nama              : Farchatul Hudayah
+ Nim               : 22205071
+ Prodi             : Teknik Informatika
+ Kelas             : PBO1
+ Deskripsi Program : Program ini berisi program untuk Mengitung Program Nilai Terbesar dan Terkecil Nilai Mahasiswa
  */
 public class Latihan23 {
 
